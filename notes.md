@@ -1,0 +1,1 @@
+IPFS is the technology, and Kubo is the software that lets your computer join the IPFS network.

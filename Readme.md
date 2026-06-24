@@ -169,40 +169,7 @@ This project is designed to learn:
 
 ## Repository Structure
 
-```text
-blockchain-document-verification/
-│
-├── docs/
-│   ├── architecture/
-│   ├── diagrams/
-│   └── notes/
-│
-├── backend/
-│   ├── src/
-│   ├── routes/
-│   ├── services/
-│   ├── controllers/
-│   └── middleware/
-│
-├── chaincode/
-│   └── document-contract/
-│
-├── fabric-network/
-│   ├── organizations/
-│   ├── channel-artifacts/
-│   └── scripts/
-│
-├── ipfs/
-│   └── configs/
-│
-├── frontend/
-│
-├── uploads/
-│
-├── tests/
-│
-└── README.md
-```
+Not decided yet. Update later.
 
 ---
 
