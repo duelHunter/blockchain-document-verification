@@ -21,6 +21,7 @@
   "dependencies": {
     "better-sqlite3": "^12.11.1",
     "express": "^5.2.1",
+    "kubo-rpc-client": "^7.1.0",
     "multer": "^2.2.0",
     "nodemon": "^3.1.14"
   }
